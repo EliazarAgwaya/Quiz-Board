@@ -19,3 +19,18 @@ body{
     border: none;
     box-shadow: 5px 5px 10px;
 }
+#two{
+    background-color: rgb(248, 237, 177);
+    width: 500;
+    align-items: center;
+    height: 250;
+    border: 3px solid olivedrab;
+    padding: 50px;
+    border-radius: 25px;
+}
+.Questions{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-shadow: 5px 5px 10px;
+}
