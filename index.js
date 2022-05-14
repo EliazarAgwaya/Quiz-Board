@@ -34,4 +34,8 @@ function myScore() {
         case 9:
         if (tenth=='Standard Input and Output'){score++};
     }  
+    myForm.style.display='none';
+    if (score<=10) {
+        total.textContent=`Your score is ${score}`;
+    }
 }
