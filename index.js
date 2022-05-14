@@ -10,4 +10,6 @@ function myScore() {
     var eigth=document.myForm.optionQEight.value;
     var nineth=document.myForm.optionQNine.value;
     var tenth=document.myForm.optionQTen.value;
+    var total=document.getElementById('total')
+    var myForm=document.getElementById('myBoard')
 }
